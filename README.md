@@ -12,10 +12,10 @@ A booking application for a barbershop, built with a ReactJS frontend and a Spri
 ## Main Features
 
 - **Service Selection**: Allows customers to choose from several available services.
- ![image alt]((https://github.com/elouahabihind/Barbershop/blob/ab51c8e4caa0bb70a04b685871ce114ec8c39d1d/Service%20Selection.png))
+ ![image alt](https://github.com/elouahabihind/Barbershop/blob/2dc8456da5e0899554692b0d3cd5c6e97eb0a6cf/Service%20Selection.png)
 - **Date and Time Selection**: Ensures that bookings are made during opening hours (09:00 AM - 08:00 PM).
  ![image alt](https://github.com/elouahabihind/Barbershop/blob/ab51c8e4caa0bb70a04b685871ce114ec8c39d1d/Date%20and%20Time%20Selection.png)
 - **Data Validation**: Verifies user input to ensure accurate data.
   ![image alt](https://github.com/elouahabihind/Barbershop/blob/ab51c8e4caa0bb70a04b685871ce114ec8c39d1d/booking.png)
 - **Secure Backend**: Manages bookings with a MySQL database.
-![image alt]((https://github.com/elouahabihind/Barbershop/blob/ab51c8e4caa0bb70a04b685871ce114ec8c39d1d/Submit%20a%20booking.png))
+![image alt](https://github.com/elouahabihind/Barbershop/blob/2dc8456da5e0899554692b0d3cd5c6e97eb0a6cf/Submit%20a%20booking.png)
